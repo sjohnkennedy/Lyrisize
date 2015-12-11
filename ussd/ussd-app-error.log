@@ -1,3 +1,0 @@
-[08-Dec-2015 08:15:22 Europe/Paris] PHP Fatal error:  Class 'MoUssdReceiver' not found in C:\wamp\www\Lyrisize\ussd\SampleUssdApp.php on line 19
-[08-Dec-2015 08:15:22 Europe/Paris] PHP Stack trace:
-[08-Dec-2015 08:15:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\Lyrisize\ussd\SampleUssdApp.php:0
